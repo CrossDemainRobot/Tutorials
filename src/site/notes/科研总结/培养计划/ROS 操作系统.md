@@ -29,10 +29,12 @@
 	-  gmapping 构建地图
 	-  amcl定位
 	-  amcl定位 + move_base 实现手动设定点位并执行
+
 > 参考文档：《ROS机器人开发实践_胡春旭》
 
 - ros2 完成导航包的仿真,包括如下功能
 	-  gmapping 构建地图
 	-  amcl定位
 	-  amcl定位 + move_base 实现手动设定点位并执行
+
 > 参考文档： https://navigation.ros.org/
